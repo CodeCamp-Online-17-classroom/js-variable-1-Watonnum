@@ -1,4 +1,4 @@
-const name = "Pae";
+const name = "none";
 let Person = name;
 
 alert(Person);
