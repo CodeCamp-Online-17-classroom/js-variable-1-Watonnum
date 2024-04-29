@@ -1,1 +1,4 @@
-// write code here
+const name = "Pae";
+let Person = name;
+
+alert(Person);
